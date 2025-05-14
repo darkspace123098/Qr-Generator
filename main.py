@@ -1,6 +1,7 @@
 from tkinter import *
 import qrcode
 
+
 root = Tk()
 root.title("Qr code Generator")
 root.geometry("1000x550")
